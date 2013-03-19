@@ -6,7 +6,6 @@ The next facebook, big hit on the market, scale big. All fellows Yolo Driven Dev
 
 
 You should read the Yolo Driven Development Rules FIRST!
-
 ========
 
 # Do not refactor, it is a bad practice. YOLO
