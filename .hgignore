@@ -5,3 +5,6 @@ syntax: glob
 *.php
 spec
 test
+*.rb
+*.ru
+features
