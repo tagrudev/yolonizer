@@ -44,3 +44,5 @@ You should read the Yolo Driven Development Rules FIRST!
 * Real men deploy with ftp. YOLO
 
 * Who needs numbers anyway? YOLO
+
+* Edit Markdown without previewing. YOLO
