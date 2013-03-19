@@ -1,2 +1,4 @@
 File containing production password and root access
-password: yolo
+
+    username: yolo
+    password: swag
