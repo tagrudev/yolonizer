@@ -1,0 +1,7 @@
+syntax: glob
+
+.git
+\#*
+*.php
+spec
+test
