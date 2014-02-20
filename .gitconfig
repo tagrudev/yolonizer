@@ -1,0 +1,2 @@
+ [alias]
+  yolo = !git add --all && git commit --amend -m 'YOLO' && git push -f
